@@ -249,6 +249,7 @@ Information Coded in Alphanumeric）特点的数据结构。它最初由以太�
 Patricia树的详细描述，包括其结构、原理、特点及应用。
 
 ### 3.1 Merkle Patricia树的结构
+<img width="764" alt="1743140912895" src="https://github.com/user-attachments/assets/22d3c709-dd46-462e-9669-4f0577e7edd9" />
 
 Merkle Patricia树是一种树形结构，融合了Merkle树（哈希验证）和Patricia树（压缩前缀）的特性。它的核心目标是优化键值对的存储和查询，同时支持高效的Merkle证明。MPT的节点类型和组织方式如下：
 
